@@ -1,2 +1,3 @@
 # Google-IT-Automation-Course
-A repository required for the course
+Arepository required for the course
+I am editing the README file. Adding some more details about the project description.
